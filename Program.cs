@@ -25,6 +25,7 @@ cerveja = 2 * adultoAlcool;
 refrigerante = 0.5 * adultosemAlcool + crianca;
 agua = 0.4 * pessoas;
 
+Console.WriteLine();
 
 Console.ForegroundColor = ConsoleColor.Blue;
 Console.WriteLine($"Carne: {carne}kg");
